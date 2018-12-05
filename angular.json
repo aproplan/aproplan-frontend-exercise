@@ -50,7 +50,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "aproplan-frontend-tech-exercise:build"
+            "browserTarget": "aproplan-frontend-tech-exercise:build",
+            "port": 39300
           },
           "configurations": {
             "production": {
