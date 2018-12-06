@@ -7,7 +7,7 @@ Hello fellow developer, I've got a mission for you!
 In order to fulfill the mission, you have to help me:
 
  - fix the bugs in the frontend and make sure the login page is correctly displayed.  After that, you'll be able to login.
-		- your login credentials are: frontend@aproplan.com | aproplan
+	- your login credentials are: frontend@aproplan.com | aproplan
  - when you're logged in the system, call the API to get all the projects available and display them in a list.
  - when you click on a project, call the API to get all the points (API name = note) of the project and display them in a list.
 
