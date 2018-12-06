@@ -12,7 +12,7 @@ In order to fulfill the mission, you have to help me:
  - when you click on a project, call the API to get all the points (API name = note) of the project and display them in a list.
 
 **Bonus**
-Impress us with a custom feature of your choice!
+Impress us with a custom feature of your choice (use Angular Material, a new API call to update a point,...)!
 
 May the force be with you!
 
