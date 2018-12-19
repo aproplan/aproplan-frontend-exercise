@@ -33,6 +33,7 @@ May the force be with you!
 
 ### API
 To get help on the Aproplan API, check out [the API documentation](https://github.com/aproplan/aproplan-api-doc).
+Little tip: read at least section **API Using**
 
 ## Angular
 
